@@ -80,7 +80,7 @@ To install and run the TastyEastsIN web app locally, follow these steps:
 
 ## Technologies Used
 
-- **Frontend**: React.js, HTML, CSS
+- **Frontend**: React.js, HTML, Tailwind-CSS , 
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Payment Integration**: Stripe
