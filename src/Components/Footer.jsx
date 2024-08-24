@@ -6,7 +6,7 @@ import { footerLinks, socialMedia } from "../constants";
 
 const Footer = () => {
   return (<>
-    <footer className='max-container mx-20  border-b-2 border-dotted
+    <footer className='max-container mx-24  border-b-2 border-dotted
      border-neutral-700 '>
    
 
