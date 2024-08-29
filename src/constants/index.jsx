@@ -30,62 +30,62 @@ export const DISHES = [
   {
     imgURL: dish1,
     name: "Veg-Cravings",
-    price: "$x",
+    price: "Rs.(x)",
     description: "Creamy pasta with bacon and cheese",
   },
   {
     imgURL: dish2,
     name: "Pizzas",
-    price: "$x",
+    price: "Rs.(x)",
     description: "Craved Doubled CHeesed Pizzas with spicy sauces",
   },
   {
     imgURL: dish3,
-    name: "Spicy-Rolls",price:"$x",
+    name: "Spicy-Rolls",price:"Rs.(x)",
     description: "Fresh tomatoes, mozzarella, and basil with balsamic glaze",
   },
   {
     imgURL: dish5,
-    name: "Chineese Corner",price:"$x",
+    name: "Chineese Corner",price:"Rs.(x)",
     description: "Decadent chocolate cake with a gooey center",
   },
   {  imgURL: dish4,
-    name: "Golden Bowl",price:"$x",
+    name: "Golden Bowl",price:"Rs.(x)",
     description: "Assorted seafood and vegetables wrapped in seaweed and rice",
   },
   {
     imgURL: dish10,
-    name: "Barbaque",price:"$x",
+    name: "Barbaque",price:"Rs.(x)",
     description: "Crisp lettuce, olives, feta cheese, and tangy dressing",
   },
   {
     imgURL: dish7,
-    name: "Burgers",price:"$x",
+    name: "Burgers",price:"Rs.(x)",
     description: "Stir-fried Crispy burgers with shrimp, tofu, and peanuts",
   },
   {
     imgURL: dish9,
-    name: "Subway",price:"$x",
+    name: "Subway",price:"Rs.(x)",
     description: "Crispy Paneer with pancakes, cucumber, and hois in sauce",
   },
   {imgURL: dish8,
-    name: "Chilli-Paneer",price:"$x",
+    name: "Chilli-Paneer",price:"Rs.(x)",
     description: "Crispy Paneer with pancakes, cucumber, and hois in sauce",
    
   },
   { imgURL: dish11,
     name: "Salads",
-    price:"$x",
+    price:"Rs.(x)",
     description: "Tender beef filet wrapped in fresh cabbage with mushrooms and herbs",
     
   },
   {imgURL: dish61,
-    name: "Chole-chawal",price:"$x",
+    name: "Chole-chawal",price:"Rs.(x)",
     description: "Chole Chawal: A Hearty and Flavorful North Indian Comfort Food",
    
   },
   {imgURL: dish12,
-    name: "Ice Cream",price:"$x",
+    name: "Ice Cream",price:"Rs.(x)",
     description: "Classic Ice Cream: A Creamy, Chilled Delight in Every Flavor",
    
   }
@@ -125,7 +125,7 @@ export const CUSINES = [
 ];
 
 export const REVIEW = {
-  name2: "Rohan Singh",
+  name: "Rohan Singh",
   profession: "Food Critic",
   content:
     "“As a seasoned food critic, my expectations are always high when stepping into a new dining establishment. TastyEatsIn, with its unassuming exterior and elegantly designed interior, promised a unique culinary experience from the moment I walked in. And I must say, it delivered beyond my expectations.”",
