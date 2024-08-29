@@ -1,4 +1,6 @@
 # TastyEastsIN
+**I have Created a Landing Page till now for this Website majorly Focussing to learn frontend Development...
+Will add and implement below feature for sure in future rest asured.**  
 
 TastyEastsIN is a full stack web application built using React. It allows users to browse, order, and enjoy their favorite meals from a variety of local restaurants. This README outlines the necessary features of the application and provides a brief description of each.
 
